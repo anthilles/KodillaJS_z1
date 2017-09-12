@@ -1,0 +1,1 @@
+txtcat.jpg,fileList.txt,index.js,node_modules,package-lock.json,package.json,tekst.txt
